@@ -1,3 +1,5 @@
-#+TITLE: Tao's Fabulous CV
+#+TITLE: I'm Tao, your friendly Kubernetes, Dev[Sec]Ops architect :sailboat:
 
-This is a test of org-mode support.
+*** Education
+- Master of Fine Arts
+  Funen Art Academy
