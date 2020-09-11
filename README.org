@@ -1,4 +1,4 @@
-#+TITLE: To a new World of 🦢 🦢 🦢
+#+TITLE: A World of 🦢 🦢 🦢
 #+options: f:t
 
 I'm [[https://t.me/taoscienceskyrocket][Tao]] [fn:1], your friendly Kubernetes, Dev[Sec]Ops Architect 👷
