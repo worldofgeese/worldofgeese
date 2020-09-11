@@ -1,12 +1,13 @@
-#+TITLE: Promulgating a new World of 🦢
+#+TITLE: To a new World of 🦢 🦢 🦢
+#+options: f:t
 
-I'm [[https://t.me/taoscienceskyrocket][Tao]][fn:1], your friendly Kubernetes, Dev[Sec]Ops Architect 👷
+I'm [[https://t.me/taoscienceskyrocket][Tao]] [fn:1], your friendly Kubernetes, Dev[Sec]Ops Architect 👷
 
 I have a deep passion for open source software. When not tending to the machine spirits of a server cluster somewhere, I hack on [[https://traefik.hansen.agency][mother]] and direct little [[https://tube.hansen.agency][films]] of joy.
 
-#+begin_export html
+#+BEGIN_HTML
 <script async src="https://telegram.org/js/telegram-widget.js?11" data-telegram-post="netmother/2" data-width="100%"></script>
-#+end_export
+#+END_HTML
 
 *** Experience
 - 2017-07 - 2019-09 - Standard Library - Los Angeles, California
