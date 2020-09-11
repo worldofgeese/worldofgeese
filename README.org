@@ -1,4 +1,11 @@
 #+TITLE: I'm Tao, your friendly Kubernetes, Dev[Sec]Ops architect 👷
 
+*** Experience
+- 2017-07 - 2019-09 - Standard Library - Los Angeles, California
+  + DevOps Engineer
+    Designed and deployed server infrastructure for Ace Hotel's Sister City robo-hotel using AWS and Nix resources.
+- 2019-10 - Present - Molecular Quantum Solutions - Copenhagen Denmark
 *** Education
 - Master of Fine Arts - Funen Art Academy - 2020
+ 
+*** Skills
