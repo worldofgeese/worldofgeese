@@ -1,5 +1,9 @@
-#+TITLE: I'm Tao[fn:1], your friendly Kubernetes, Dev[Sec]Ops Architect 👷
+#+TITLE: I'm[[https://t.me/taoscienceskyrocket][ Tao]][fn:1], your friendly Kubernetes, Dev[Sec]Ops Architect 👷
 
+I have a deep passion for open source software. I hack on my computer server mother and direct little [[https://tube.hansen.agency][films]] of joy.
+#begin_html
+<script async src="https://telegram.org/js/telegram-widget.js?11" data-telegram-post="netmother/2" data-width="100%"></script>
+#end_html
 *** Experience
 - 2017-07 - 2019-09 - Standard Library - Los Angeles, California
   + DevOps Engineer
