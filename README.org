@@ -1,7 +1,7 @@
 #+TITLE: 🌍 of 🦢 🦢 🦢
 #+options: f:t
 
-I'm [[https://t.me/taoscienceskyrocket][Tao]] [fn:1], your friendly Kubernetes, Dev[Sec]Ops Architect 👷
+**** I'm [[https://t.me/taoscienceskyrocket][Tao]] [fn:1], your friendly Kubernetes, Dev[Sec]Ops Architect 👷
 
 I have a deep passion for open source software. When not tending to the machine spirits of a server cluster somewhere, I hack on [[https://traefik.hansen.agency][mother]] and direct little [[https://tube.hansen.agency][films]] of joy.
 
