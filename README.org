@@ -1,12 +1,31 @@
-#+TITLE: I'm Tao, your friendly Kubernetes, Dev[Sec]Ops architect 👷
+#+TITLE: I'm Tao[fn:1], your friendly Kubernetes, Dev[Sec]Ops Architect 👷
 
 *** Experience
 - 2017-07 - 2019-09 - Standard Library - Los Angeles, California
   + DevOps Engineer
 
     Designed and deployed server infrastructure for Ace Hotel's Sister City robo-hotel using AWS and Nix resources.
-- 2019-10 - Present - Molecular Quantum Solutions - Copenhagen Denmark
+- 2019-10 - Present - Molecular Quantum Solutions - Copenhagen, Denmark
+  + Chief Operations Architect
+
+    Built Kubernetes stack from the ground up: secrets management, docker container auto-build pipeline, and documentation for cloud-agnostic deployment on AWS, IBM Cloud, Google Cloud, and Azure.
 *** Education
-- Master of Fine Arts - Funen Art Academy - 2020
+- Master of Fine Arts - Funen Art Academy - 2020 :lower_left_paintbrush:
  
 *** Skills
+- Orchestration
+  + Docker Swarm :whale:
+  + Kubernetes
+    - OpenShift, K3s, and Vanilla :icecream:
+- Web and Backend
+  + Traefik
+  + Nginx
+  + PostgreSQL
+- Languages
+  + Bash
+  + Racket
+  + Go
+  + Python
+  + Nix
+
+[fn:1] emptysongglass@humblemail.com
