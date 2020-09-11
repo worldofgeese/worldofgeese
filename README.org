@@ -9,15 +9,15 @@ I have a deep passion for open source software. When not tending to the machine 
 
 *** Experience
 - 2017-07 - 2019-09 - Standard Library - Los Angeles, California
-  + DevOps Engineer
+  + *DevOps Engineer*
 
     Designed and deployed server infrastructure for Ace Hotel's Sister City robo-hotel using AWS and Nix resources.
 - 2019-10 - Present - Molecular Quantum Solutions - Copenhagen, Denmark
-  + Chief Operations Architect
+  + *Chief Operations Architect*
 
     Built Kubernetes stack from the ground up: secrets management, docker container auto-build pipeline, and documentation for cloud-agnostic deployment on AWS, IBM Cloud, Google Cloud, and Azure.
 *** Education
-- Master of Fine Arts - Funen Art Academy - 2020
+- *Master of Fine Arts* - Funen Art Academy - 2020
  
 *** Skills
 - Orchestration
