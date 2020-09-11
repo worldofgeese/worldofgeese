@@ -1,5 +1,8 @@
-#+TITLE: I'm Tao, your friendly Kubernetes, Dev[Sec]Ops architect :sailboat:
+#+TITLE: I'm Tao, your friendly Kubernetes, Dev[Sec]Ops architect :construction-worker:
 
 *** Education
-- Master of Fine Arts
-  Funen Art Academy
+- Master of Fine Arts - Funen Art Academy - 2020
+
+\begin{equation}                        % arbitrary environments,
+x=\sqrt{b}                              % even tables, figures
+\end{equation}                          % etc
