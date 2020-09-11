@@ -18,6 +18,7 @@ I have a deep passion for open source software. When not tending to the machine 
     Built Kubernetes stack from the ground up: secrets management, docker container auto-build pipeline, and documentation for cloud-agnostic deployment on AWS, IBM Cloud, Google Cloud, and Azure.
 *** Education
 - *Master of Fine Arts* - Funen Art Academy - 2020
+- Divemaster - Seven Heaven Divers - 2019
  
 *** Skills
 - Orchestration
