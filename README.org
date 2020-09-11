@@ -1,4 +1,4 @@
-#+TITLE: I'm Tao, your friendly Kubernetes, Dev[Sec]Ops architect :construction-worker-tone1:
+#+TITLE: I'm Tao, your friendly Kubernetes, Dev[Sec]Ops architect 👷
 
 *** Education
 - Master of Fine Arts - Funen Art Academy - 2020
