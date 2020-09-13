@@ -24,7 +24,7 @@ I have a deep passion for open source software. When not tending to the machine 
 - Orchestration
   + Docker Swarm :whale:
   + Kubernetes
-    - OpenShift, K3s, and Vanilla :icecream:
+    - OpenShift, microk8s, and Vanilla :icecream:
 - Web and Backend
   + Traefik
   + Nginx
