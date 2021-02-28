@@ -3,34 +3,44 @@
 
 **** I'm [[https://t.me/taoscienceskyrocket][Tao]], your friendly Kubernetes, Dev[Sec]Ops Architect 👷
 
-I have a deep passion for open source software. When not tending to the machine spirits of a server cluster somewhere, I hack on [[https://traefik.hansen.agency][mother]] and direct little [[https://tube.hansen.agency][films]] of joy.
+I believe in dogfooding your own code and selfhost everything I can get away with, from Kubernetes clusters to Docker Swarms. In my spare time I hack on my homeserver [[https://traefik.hansen.agency][mother]] and direct little [[https://tube.hansen.agency][films]] of joy.
+
+I :heart: declarative, immutable infrastructure: ensuring predictable state and writing inheritable manifests makes teams go faster with fewer mistakes.
 
 *** Experience
 - 2017-07 - 2019-09 - Standard Library - Los Angeles, California
   + *DevOps Engineer*
 
-    Designed and deployed server infrastructure for Ace Hotel's Sister City robo-hotel using AWS and Nix resources.
+    Designed and deployed infrastructure powered by Nix and NixOps for Ace Hotel's Sister City robo-hotel in NYC.
+    
 - 2019-10 - Present - Molecular Quantum Solutions - Copenhagen, Denmark
   + *Lead DevOps Engineer*
 
-    Built Kubernetes stack from the ground up: secrets management, docker container auto-build pipeline, and documentation for cloud-agnostic deployment on AWS, IBM Cloud, Google Cloud, and Azure.
+    Kubernetes and CI/CD architect of 3 clusters running on AWS EKS, baremetal and Contabo.
+
+    Built secrets pipelines with Vault and SOPS; CI/CD with GitHub Actions, Flux v2, and containers powered by Nix.
+
+    High availability databases powered by Zalando's PostgreSQL Operator.
 *** Education
 - *Master of Fine Arts* - Funen Art Academy - 2020
 - Divemaster - Seven Heaven Divers - 2019
  
 *** Skills
 - Orchestration
-  + Docker Swarm :whale:
   + Kubernetes
-    - OpenShift, microk8s, and Vanilla :icecream:
+    - OpenShift, MicroK8s, Charmed Kubernetes, RKE, Typhoon
+- Big Cloud
+  + AWS
+  + OCI
+  + Hetzner
 - Web and Backend
   + Traefik
   + Nginx
   + PostgreSQL
 - Languages
-  + Bash
-  + Racket
+  + Bash, fish
   + Nix
+  + Terraform HCL
 - Tools
   + Terraform
   + Ansible
