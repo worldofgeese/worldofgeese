@@ -7,6 +7,10 @@ I believe in dogfooding your own code and selfhost everything I can get away wit
 
 I :heart: declarative, immutable infrastructure: ensuring predictable state and writing inheritable manifests makes teams go faster with fewer mistakes.
 
+I've been in crypto since 2016 and spent all of 2019 daytrading while earning my PADI Divemaster certification and researching Islam for an unreleased short film in Dahab, Egypt. My portfolio today is a mix of safe, risky and long bets: from elastic supply Bitcoins, reflect tokens on the Binance Smart Chain, to Cardano and Polkadot.
+
+Emacs is my lifeblood. 
+
 *** Experience
 - 2017-07 - 2019-09 - Standard Library - Los Angeles, California
   + *DevOps Engineer*
