@@ -7,10 +7,6 @@ I believe in dogfooding your own code and selfhost everything I can get away wit
 
 I :heart: declarative, immutable infrastructure: ensuring predictable state and writing inheritable manifests makes teams go faster with fewer mistakes.
 
-I've been in crypto since 2016 and spent all of 2019 daytrading while earning my PADI Divemaster certification and researching Islam for an unreleased short film in Dahab, Egypt. My portfolio today is a mix of safe, risky and long bets: from elastic supply Bitcoins, reflect tokens on the Binance Smart Chain, to Cardano and Polkadot.
-
-Emacs is my lifeblood. 
-
 *** Experience
 - 2017-07 - 2019-09 - Standard Library - Los Angeles, California
   + *DevOps Engineer*
@@ -25,6 +21,12 @@ Emacs is my lifeblood.
     Built secrets pipelines with Vault and SOPS; CI/CD with GitHub Actions, Flux v2, and containers powered by Nix.
 
     High availability databases powered by Zalando's PostgreSQL Operator.
+
+- 2021-04 - Present - eToroX R&D - Copenhagen, Denmark
+  + *DevOps Engineer*
+
+    Liasion between Israeli and Danish teams. Optimize and extend existing build pipelines and tend to Kubernetes clusters.
+    
 *** Education
 - *Master of Fine Arts* - Funen Art Academy - 2020
 - Divemaster - Seven Heaven Divers - 2019
