@@ -3,4 +3,8 @@
 
 **** I'm [[https://t.me/taoscienceskyrocket][Tao]], your friendly DevRel at garden.io.
 
-I believe in dogfooding your own code and selfhost everything I can get away with. The Web as an Indra's Net of self-sovereign machines is worth fighting for. To that end I hack on my homeserver, [[https://traefik.hansen.agency][mother]], and for fun I direct little [[https://tube.hansen.agency][films]] of joy.
+I believe in dogfooding your own code and selfhost everything I can get away with. The Web as an Indra's Net of self-sovereign machines is worth fighting for. To that end I hack on my homeserver, [[https://traefik.hansen.agency][mother]], Loving Kypris and Endless Summer. When I'm not breathlessly tending to these sweet machines I direct little [[https://tube.hansen.agency][films]] of joy.
+
+In another life I was Sovereign Bleak, a false prophet of a transhumanist movement making how-to guides for surgically implanting finger-magnets.
+
+Find my odes and dirges to the Future at https://worldof.geese.party/.
