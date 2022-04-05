@@ -1,8 +1,6 @@
 #+TITLE: 🌍 of 🦢 🦢 🦢
 #+options: f:t
 
-**** I'm [[https://t.me/taoscienceskyrocket][Tao]], your friendly Kubernetes, Dev[Sec]Ops Architect 👷
+**** I'm [[https://t.me/taoscienceskyrocket][Tao]], your friendly DevRel at garden.io.
 
-I believe in dogfooding your own code and selfhost everything I can get away with, from Kubernetes clusters to Docker Swarms. In my spare time I hack on my homeserver [[https://traefik.hansen.agency][mother]] and direct little [[https://tube.hansen.agency][films]] of joy.
-
-I :heart: declarative, immutable infrastructure: ensuring predictable state and writing inheritable manifests makes teams go faster with fewer mistakes.
+I believe in dogfooding your own code and selfhost everything I can get away with. The Web as an Indra's Net of self-sovereign machines is worth fighting for. To that end I hack on my homeserver, [[https://traefik.hansen.agency][mother]], and for fun I direct little [[https://tube.hansen.agency][films]] of joy.
