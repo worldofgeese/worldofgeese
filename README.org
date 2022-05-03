@@ -5,6 +5,6 @@
 
 The Web is an Indra's Net of self-sovereign machines. My contributions to its pantheon are [[https://traefik.hansen.agency][mother]], a Synology DS-218+; Loving Kypris, a NUC10i7FNK running OpenShift; and Endless Summer, a fitlet-B running NixOS. In the past I directed little [[https://tube.hansen.agency][films]] of joy.
 
-In another life I was Sovereign Bleak, a false prophet of a transhumanist movement making how-to guides for [[https://vimeo.com/23836862][surgically implanting]] finger-magnets.
+In another life I was Sovereign Bleak, a false prophet of a [[https://web.archive.org/web/20220503134939/http://airshipdaily.com/grinders-tomorrows-cyberpunks-are-here-today-nsfw][transhumanist movement]] making how-to guides for [[https://vimeo.com/23836862][surgically implanting]] finger-magnets.
 
 Find my odes and dirges to the Future at https://worldof.geese.party/.
