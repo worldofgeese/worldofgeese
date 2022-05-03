@@ -1,7 +1,7 @@
 #+TITLE: 🌍 of 🦢 🦢 🦢
 #+options: f:t
 
-**** I'm [[https://t.me/taoscienceskyrocket][Tao]], your friendly DevRel at garden.io.
+**** I'm [[https://t.me/taoscienceskyrocket][Tao]], your friendly Developer Advocate at @garden.io.
 
 The Web is an Indra's Net of self-sovereign machines. My contributions to its pantheon are [[https://traefik.hansen.agency][mother]], Loving Kypris and Endless Summer. In the past I directed little [[https://tube.hansen.agency][films]] of joy.
 
