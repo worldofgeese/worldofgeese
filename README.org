@@ -3,8 +3,4 @@
 
 **** I'm [[https://t.me/taoscienceskyrocket][Tao]], your friendly Developer Advocate at @garden.io.
 
-The Web is an Indra's Net of self-sovereign machines. Some of mine are [[https://traefik.hansen.agency][mother]], a Synology DS-218+; Loving Kypris, a NUC10i7FNK running OpenShift; and Endless Summer, a fitlet-B running NixOS. 
-
-I once directed little [[https://tube.hansen.agency][films]] of joy and in another life I was Sovereign Bleak, a false prophet of a [[https://web.archive.org/web/20220503134939/http://airshipdaily.com/grinders-tomorrows-cyberpunks-are-here-today-nsfw][transhumanist movement]] making how-to guides for [[https://vimeo.com/23836862][surgically implanting]] finger-magnets.
-
 Say hi https://fosstodon.org/@worldofgeese
