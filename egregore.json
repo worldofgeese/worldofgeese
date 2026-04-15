@@ -1,0 +1,181 @@
+{
+  "mode": "local",
+  "org_name": "worldofgeese",
+  "github_org": "worldofgeese",
+  "memory_repo": "https://github.com/worldofgeese/worldofgeese-memory.git",
+  "slug": "worldofgeese",
+  "repo_name": "worldofgeese",
+  "repos": [
+    {
+      "name": "fleek-nix-darwin",
+      "base_branch": "main"
+    },
+    {
+      "name": "tarot-api",
+      "base_branch": "main"
+    },
+    {
+      "name": "mythras-chargen",
+      "base_branch": "main"
+    },
+    {
+      "name": "aig-character-sheet",
+      "base_branch": "main"
+    },
+    {
+      "name": "team-friendship-hour",
+      "base_branch": "main"
+    },
+    {
+      "name": "mothers_emblems",
+      "base_branch": "main"
+    },
+    {
+      "name": "little_bits_of_buddha",
+      "base_branch": "main"
+    },
+    {
+      "name": "multicluster-linkerd-garden-example",
+      "base_branch": "main"
+    },
+    {
+      "name": "clay-grants-europe",
+      "base_branch": "main"
+    },
+    {
+      "name": "skills",
+      "base_branch": "main"
+    },
+    {
+      "name": "hello-world",
+      "base_branch": "main"
+    },
+    {
+      "name": "mem0",
+      "base_branch": "main"
+    },
+    {
+      "name": "spacebot",
+      "base_branch": "main"
+    },
+    {
+      "name": "ubuntu-devcontainer",
+      "base_branch": "main"
+    },
+    {
+      "name": "nanoclaw",
+      "base_branch": "main"
+    },
+    {
+      "name": "gooseandquill.blog",
+      "base_branch": "main"
+    },
+    {
+      "name": "perry",
+      "base_branch": "main"
+    },
+    {
+      "name": "dotnet10-devcontainer",
+      "base_branch": "main"
+    },
+    {
+      "name": "BlueMicro_Builder",
+      "base_branch": "main"
+    },
+    {
+      "name": "100-exercises-to-learn-rust",
+      "base_branch": "main"
+    },
+    {
+      "name": "submit-site-to-marginalia-search",
+      "base_branch": "master"
+    },
+    {
+      "name": "java-garden-playground",
+      "base_branch": "main"
+    },
+    {
+      "name": "python-uv",
+      "base_branch": "main"
+    },
+    {
+      "name": "worldofgeese.github.io",
+      "base_branch": "master"
+    },
+    {
+      "name": "logseq-publish-example",
+      "base_branch": "main"
+    },
+    {
+      "name": "python-rootless-devcontainer",
+      "base_branch": "main"
+    },
+    {
+      "name": "guix-config",
+      "base_branch": "main"
+    },
+    {
+      "name": "provision-ubuntu-on-wsl2",
+      "base_branch": "master"
+    },
+    {
+      "name": "doom-emacs-config",
+      "base_branch": "main"
+    },
+    {
+      "name": "triogram",
+      "base_branch": "master"
+    },
+    {
+      "name": "fastapi-mongodb-garden-example",
+      "base_branch": "main"
+    },
+    {
+      "name": "home-manager-at-home",
+      "base_branch": "main"
+    },
+    {
+      "name": "home-manager-at-work",
+      "base_branch": "main"
+    },
+    {
+      "name": "flask-cockroachdb-devcontainer",
+      "base_branch": "master"
+    },
+    {
+      "name": "kubernetes-in-codespaces",
+      "base_branch": "main"
+    },
+    {
+      "name": "fastapi-garden-devcontainer-sample",
+      "base_branch": "main"
+    },
+    {
+      "name": "takahe",
+      "base_branch": "main"
+    },
+    {
+      "name": "BlueMicro_BLE",
+      "base_branch": "master"
+    },
+    {
+      "name": "vscode-remote-try-python",
+      "base_branch": "main"
+    },
+    {
+      "name": "worldofgeese",
+      "base_branch": "master"
+    },
+    {
+      "name": "devos",
+      "base_branch": "main"
+    },
+    {
+      "name": "terraform-oci-A1-Always-Free-Instance",
+      "base_branch": "main"
+    }
+  ],
+  "upstream_url": "https://github.com/egregore-labs/egregore.git",
+  "report_url": "https://xgksfrirtdumacvmfkzj.supabase.co",
+  "report_key": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Inhna3NmcmlydGR1bWFjdm1ma3pqIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzA5OTA1ODksImV4cCI6MjA4NjU2NjU4OX0.1UWNgER6nQazrayly1KDrswClURUkGKxeirZg5L8uk4"
+}
