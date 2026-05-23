@@ -1,4 +1,4 @@
-I'm Tao, your friendly Developer Advocate at @garden.io.
+I'm Tao, your friendly Head of Developer Relations at @LEGO.
 
 I do talks on mindfulness at the workplace, make short films and write a ton of blog content for my employer. Click the images to explore or write me on Fosstodon!
 
